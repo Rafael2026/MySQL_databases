@@ -20,7 +20,7 @@ I am going to upload databases programmed in SQL.
   <p>Ejercicio 15</p>
 </a>
 
-The MySQL are made with MySQL Workbench.
+The MySQL exercises are made with MySQL Workbench.
 
 <a href = "https://dev.mysql.com/doc/">
   <img src = "https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png">
