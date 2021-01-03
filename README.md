@@ -19,3 +19,5 @@ I am going to upload databases programmed in SQL.
 <a href = "https://github.com/Rafael2026/databases_files/blob/main/MySQL/Ejercicio 15.pdf">
   <p>Ejercicio 15</p>
 </a>
+
+<img src = "https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png">
