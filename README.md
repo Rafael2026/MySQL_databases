@@ -1,4 +1,4 @@
-I am going to upload databases programmed in SQL.
+I am going to upload MySQL databases.
 
 <a href = "https://github.com/Rafael2026/databases_files/blob/main/MySQL/Ejercicios del 1 al 10.pdf">
   <p>Ejercicios (1 - 10)</p>
