@@ -23,5 +23,5 @@ Here, I only upload MySQL databases.
 The MySQL exercises are made with MySQL Workbench.
 
 <a href = "https://dev.mysql.com/doc/">
-  <img src = "https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png" alt = "Icono de MySQL Workbench>
+  <img src = "https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png" alt = "Icono de MySQL Workbench">
 </a>
